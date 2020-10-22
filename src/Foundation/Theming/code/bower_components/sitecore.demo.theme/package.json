@@ -49,7 +49,7 @@
   "dependencies": {
     "glob": "^7.0.5",
     "gulp-clip-empty-files": "^0.1.1",
-    "gulp-css-connoisseur": "0.0.4",
+    "gulp-css-connoisseur": "0.0.5",
     "gulp-nunjucks-render": "^1.1.0",
     "node-sass": "^3.8.0"
   }
