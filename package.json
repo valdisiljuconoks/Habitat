@@ -25,7 +25,7 @@
     "vinyl": "^1.1.0",
     "xml2js": "^0.4.16",
     "xmlpoke": "^0.1.12",
-    "yargs": "^6.4.0"
+    "yargs": "^16.0.0"
   },
   "devDependencies": {
     "gulp-nuget-restore": "^0.4.0"
