@@ -51,6 +51,6 @@
     "gulp-clip-empty-files": "^0.1.1",
     "gulp-css-connoisseur": "0.0.4",
     "gulp-nunjucks-render": "^1.1.0",
-    "node-sass": "^3.8.0"
+    "node-sass": "^4.9.0"
   }
 }
