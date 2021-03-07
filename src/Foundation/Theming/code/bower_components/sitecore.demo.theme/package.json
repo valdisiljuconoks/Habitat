@@ -21,7 +21,7 @@
     "gulp-htmlmin": "^2.0.0",
     "gulp-nunjucks": "^2.1.1",
     "gulp-nunjucks-html": "^2.0.0",
-    "gulp-nunjucks-render": "^1.0.0",
+    "gulp-nunjucks-render": "^2.1.0",
     "gulp-plumber": "^1.0.1",
     "gulp-sass": "^2.0.0",
     "gulp-sass-glob": "0.0.2",
@@ -50,7 +50,7 @@
     "glob": "^7.0.5",
     "gulp-clip-empty-files": "^0.1.1",
     "gulp-css-connoisseur": "0.0.4",
-    "gulp-nunjucks-render": "^1.1.0",
+    "gulp-nunjucks-render": "^2.1.0",
     "node-sass": "^3.8.0"
   }
 }
